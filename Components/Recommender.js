@@ -1,4 +1,3 @@
-// components/Recommendation.js
 import React, { useState } from 'react';
 import { placeholderImageLink } from '../Const/links';
 import Loader from './Loader';
