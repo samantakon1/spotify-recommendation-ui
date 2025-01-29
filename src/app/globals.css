@@ -1,7 +1,8 @@
 /* styles/globals.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* @tailwind base; */
+/* @tailwind components; */
+/* @tailwind utilities; */
+@import "tailwindcss";
 
 /* Custom dark gradient background */
 .bg-gradient-dark {
