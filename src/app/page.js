@@ -1,6 +1,6 @@
 "use client";
 
-import Recommendation from "../../components/Recommender";
+import Recommendation from "../../component/Recommender";
 
 export default function Home() {
 
